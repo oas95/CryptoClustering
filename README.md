@@ -17,7 +17,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#keyVis">Key Visuals</a></li>
+    <li><a href="#key-visuals">Key Visuals</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#references">References</a></li>
@@ -59,11 +59,13 @@ pip install -U scikit-learn
 conda install -c pyviz hvplot
 ```
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
 <!-- ROADMAP -->
 ## Roadmap
+
+
+<!-- Key Visuals -->
+## Key Visuals
+
 
 <!-- CONTACT -->
 ## Contact
